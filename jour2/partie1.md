@@ -11,8 +11,25 @@
 
 4. couche 4: Producteur de contenus (chaine de Tv, youtube, ect...)
 
-# Le poids des acteurs dans l'économie numérique en 2020
+# Le marché des télécoms
 
-```
+* Grand public: 22,3 Mds
 
-```
+* Entreprises: 8,5 Mds
+
+> CA TOTAL 2019: 30,8 Mds €
+
+# Un marché conséquent en volume
+
+* 8,4 Millions: Abonnements ou service de téléphonie fixe
+
+* 9 millions: de cartes SIM pour la téléphonie mobile
+
+* 2.6 millions: Accès à internet par haut débit et très haut débit
+
+# Un marché concentré sur 3 acteurs
+
+- Orange: 65% à 70%
+- SFR de 20% à 25%
+- bouygues: environs 5%
+
