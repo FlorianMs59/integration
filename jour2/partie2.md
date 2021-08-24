@@ -98,3 +98,18 @@
     <td>2%</td>
 </tr>
 </table>
+
+
+<hr style="background: lightblue; margin: 25px 0;">
+
+
+# Critères de sélection d'un opérateur
+
+1. Le respect de ses engagements
+2. LA facilité de mise en place et d'utilisation de ses solutions<br>
+sa politique tarifaire (prix, modalités de paiement ect...)<br>
+La proactivité de son service client
+3. La transparence dans sa communication<br>
+La personnalisation de ses offres, l'adaptation aux besoins spécifiques<br>
+La largeur de la gamme de service (téléphonie, cloud, installation ect...)<br>
+La mise à disposition d'un espace client complet et innovant (histoire es opérations, disponibilité de service ect...)
