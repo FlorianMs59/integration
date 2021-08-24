@@ -158,3 +158,7 @@ Points forts secondaire
 </div>
 
 * Met à disposition un espace client complet et innovant
+
+<hr style="background: lightblue; margin: 25px 0,">
+
+  
