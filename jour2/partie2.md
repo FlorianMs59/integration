@@ -12,7 +12,7 @@
 
 > Des attentes des clients vers des solutions à valeurs ajoutées et des offres élevées
 
-<hr style="background: lightblue">
+<hr style="background: lightblue; margin: 25px 0;">
 
 <table style="border: 1px solid lightblue">
 <tr>
@@ -65,4 +65,36 @@
 </tr>
 </table>
 
-<hr style="background: lightblue">
+<hr style="background: lightblue; margin: 25px 0">
+
+
+
+## Connectivité fixe: les accès xDSL restent majoritaires, mais près de la moitié des PME de plus de 50 salariés sont équipées en fibre
+
+
+<table>
+<tr>
+    <td>Type d'accès de connectivité fixe</td>
+
+</tr>
+<tr>
+    <td>ADSL</td>
+    <td>71%</td>
+</tr>
+<tr>
+    <td>SDSL(soit un débit symétrique</td>
+    <td>20%</td>
+</tr>
+<tr>
+    <td>Via la fibre optique</td>
+    <td>14%</td>
+</tr>
+<tr>
+    <td>Autre type d'accès (satellite, câble...</td>
+    <td>2%</td>
+</tr>
+<tr>
+    <td>Ne connait pas le type précis</td>
+    <td>2%</td>
+</tr>
+</table>
