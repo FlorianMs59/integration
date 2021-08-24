@@ -113,3 +113,48 @@ La proactivité de son service client
 La personnalisation de ses offres, l'adaptation aux besoins spécifiques<br>
 La largeur de la gamme de service (téléphonie, cloud, installation ect...)<br>
 La mise à disposition d'un espace client complet et innovant (histoire es opérations, disponibilité de service ect...)
+
+<hr style="background: lightblue; margin: 25px 0;">
+
+<div style="background: red; color: white; padding: 20px; width: 200px; font-size: 20px">
+
+Points d'amélioration principaux
+
+</div>
+
+* Propose des politiques tarifaires attractives
+
+<hr>
+
+<div style="background: green; color: white; padding: 25px; width: 200px;font-size: 20px">
+
+Points forts principaux
+
+</div>
+
+* respecte ses engagement
+* s'adapte aux besoins spécifiques de ses clients
+
+<hr>
+
+<div style="background: red; color: white; padding: 25px; width: 200px;font-size: 20px">
+
+Points d'amélioration secondaire
+
+</div>
+
+* est transparent dans la communicaion
+* propose des solutions facile à mettre en place et à utiliser
+* Propose une large gamme de service
+* Dispose d'un service client proactif
+
+<hr>
+
+
+<div style="background: green; color: white; padding: 25px; width: 200px;font-size: 20px">
+
+Points forts secondaire
+
+</div>
+
+* Met à disposition un espace client complet et innovant
