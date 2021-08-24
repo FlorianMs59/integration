@@ -12,14 +12,14 @@
 
 > Des attentes des clients vers des solutions à valeurs ajoutées et des offres élevées
 
-<HR>
+<hr style="background: lightblue">
 
-<table>
+<table style="border: 1px solid lightblue">
 <tr>
     <td>Technologie</td>
     <td>Abo minimum</td>
-    <td>abo maximum</td>
-    <td>abo moyen</td>
+    <td>Abo maximum</td>
+    <td>Abo moyen</td>
 </tr>
 <tr>
     <td>4G</td>
@@ -64,3 +64,5 @@
     <td>38,92€</td>
 </tr>
 </table>
+
+<hr style="background: lightblue">
