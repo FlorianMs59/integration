@@ -236,3 +236,22 @@ Cas Client
 3. RTC
     * débute après réception 
 
+<hr style="margin: 50px 0">
+
+# Portabilité
+
+* le client donne mandat a linkt afin d'effectuer l'ensemble des actes nécessaires à la mise en oeuvre de sa demande de portabilité
+* la résiliation du contrat du client auprès de son ancien opérateur fixe prend effet le jour du portage effectif du numéro
+* c'est au client de s'assurer que les conditions contractuelles de son ancien opérateur lui permettent de résilier ledit abonnement
+* une portabilité ne peut être effectuée dans un délai inférieur à 7 jours ouvrable à compté de la demande client et sous réserve de la disponibilité du lien d'accès
+
+<table>
+    <tr>
+        <td>Situation</td>
+        <td>Action</td>
+    </tr>
+    <tr>
+        <td>Votre client à lancé la résiliation de tous ses services voix qui seront arrêtés avant la mise en production</td>
+        <td>il est nécessaire de préciser au client de NE PAS résilier les numéros à porter car c'est Linkt qui sera en charge de le faire au nom du client</td>
+    </tr>
+</table>
