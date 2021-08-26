@@ -179,4 +179,26 @@ Cas Client
 
 <hr style="margin: 50px 0">
 
-# 
+# Dessert interne
+
+* Les dessert interne peuvent être de deux type
+    1. Desserte interne simple 
+        * site localisé en France métropolitaine
+            * Accés xDSL
+                > Pose d'un cable de - 30 mètres sur partie privatives
+            * Accès Fibre
+                > Pose d'un cable - 30 mètres entre le point d'entrée du service et de l'équipement Linkt
+    2. Dessert interne complexe
+        * Au moins une caractéristique ne correspond pas à la définition de desserte interne simple
+            * Etude de faisabilité
+
+<table>
+    <tr>
+        <td>Situation</td>
+        <td>Action</td>
+    </tr>
+    <tr>
+        <td>Quand intervient l'arvitrage desserte interne<br> simple/complexe et par qui est il fait ?</td>
+        <td></td>
+    </tr>
+</table>
