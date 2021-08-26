@@ -151,5 +151,28 @@ Cas Client
     * demande envoyée par mail ou coordinateur de production et d'exploitation
 
 
-
 <hr style="margin: 50px 0">
+
+# Résiliation
+
+> Toute résiliation par le client ou par Linkt devra faire l'objet d'une notifiaction par LRAR avec un préavis de trois mois
+
+* Résiliation avant la date d'expiration de la durée minimale:
+    * Le client devra verser à Linkt la totalité du montant de facuration correspondante aux:
+        * Abonnement restant due jusqu'à k'expiration de la durée minimale
+        * frais d'accès aux service d'installation et d'achat d'équipement
+        * Montants des consommations qui auraient dû être facturé
+
+* Résiliation après l'expiration de la durée minimale
+    * Les parties sont libres de résilier le contrat à tout moment à l'expiration de la durée minimale telle qu'indiquée au bon de commande et à l'expiration de chaque période de reconduction
+
+<table>
+    <tr>
+        <td>Situation</td>
+        <td>Action</td>
+    </tr>
+    <tr>
+        <td>Votre client vous demande de pouvoir résilier certains<br> liens pendant la durée d'engagement sans indemnité<br> de résiliation anticipée</td>
+        <td></td>
+    </tr>
+</table>
