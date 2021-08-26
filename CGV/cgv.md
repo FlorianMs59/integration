@@ -199,6 +199,23 @@ Cas Client
     </tr>
     <tr>
         <td>Quand intervient l'arvitrage desserte interne<br> simple/complexe et par qui est il fait ?</td>
-        <td></td>
+        <td>Une première étude et à faire l'IC<br>
+        et une deuxième par le technicien</td>
     </tr>
 </table>
+
+<hr style="margin: 50px 0">
+
+# Difficulté Execptionnelle
+
+* Si l'étude de faisabilité ou de production permet d'identifier
+    1. abscence de point de terminaison
+    2. site protégé
+    3. site isolé
+    4. Obstacle Naturel
+    * Configuration architecturale Spéciale
+    * absence de moyens d'accès par la route
+
+    * Nécessité de mettre en oeuvre des moyens spéciaux/Démolition ou construction d'ouvrage
+
+* Linkt se réserve le droit d'annuler la commande pour le site concerné et de proposer un autre type d'accès adapté aux tarifs de la nouvelle solution
