@@ -62,3 +62,68 @@ Cas client
         <td>Linkt pourra exiger le versement de pénalités <br> égale à la somme des abonnements due sur la durée minimale du service</td>
     </tr>
 </table>
+
+<hr style="margin: 50px 0">
+
+# Réception et mise en service
+
+* La mise en service ne pourra intervenir que si l'ensemble des documents constitutifs du contrat et nécessaire à la mise à disposition du service ont été retournés à Linkt et que le client à migrer son LAN.
+
+* Une fois les Opérations d'installation effectuées. Linkt remet ou envoie au Client un Avis écrit de mise à disposition du service (Mail envoyé par CC Production)
+
+* La date de l'acceptation vaut date de mise à dispo du service et marque le début de la facturation
+
+Cas Client
+
+<table>
+    <tr>
+        <td>Situation</td>
+        <td>Action</td>
+    </tr>
+    <tr>
+        <td>L'OBL annonce 6 mois de retard sur la livraison la fibre,versons nous des pénalités ?</td>
+        <td>?</td>
+    </tr>
+    <tr>
+        <td>Le client nous demande de nous engager sur une date de livraison de l'accès</td>
+        <td>OSM</td>
+    </tr>
+    <tr>
+        <td>Le client n'a pas signé le manda SEPA, les services vont ils pouvoir être mis à disposition ?</td>
+        <td>?</td>
+    </tr>
+</table>
+
+# Equipement
+
+* Le client devra fournir pour l'installation des équipements de Linkt un environnement conforme aux usage du métier en vigueur.
+    * Le client s'engage notamment à fournir à Linkt l'alimentation électrique, l'éclairage, la climatisation et les moyens de dépose nécessaire
+* Le client s'interdit de procéder à toute manipulation ou intervention sur les équipement Linkt
+* Les équipements loués à Linkt la propriété de Linkt
+* Le transfert de propriété de tout Equipement vendu le cas échéant par Linkt est subordonné au paiement intégral de son prix par le client
+* En cas de résiliation ou d'expiration du contrat, le cleint s'engage à restituer l'ensemble des équipements Linkt loués contituant le Service. Si pas de restitution, Linkt pourra facturer au client le prix de l'équipement à neuf
+
+<table>
+    <tr>
+        <td>Situation</td>
+        <td>Action</td>
+    </tr>
+    <tr>
+        <td>Le client ne souhaite pas prendre en charge l'envoi du matériel</td>
+        <td>OSM</td>
+    </tr>
+</table>
+
+<hr style="margin: 50px 0">
+
+# Facturation
+
+* Les factures sont établies mensuellement, TVA en sus
+* Linkt facture le frais d'accès au service à la date de mise à disposition du service
+
+* Les factures sont payables par prélèvement automatiquement dans un délai de trente (30) jours à compter de la date de la facture.
+    * Si retard de paiement => application de pénalités de retard
+    * Si défaut de paiement => suspension du service
+
+<hr style="margin: 50px 0">
+
