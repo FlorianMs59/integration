@@ -147,4 +147,9 @@ Cas Client
     * Si valise: FAS
     * Si non valide: Reste redevable des mensualités restantes
 
+5. supression d'une option
+    * demande envoyée par mail ou coordinateur de production et d'exploitation
 
+
+
+<hr style="margin: 50px 0">
