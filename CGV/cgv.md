@@ -172,7 +172,7 @@ Cas Client
         <td>Action</td>
     </tr>
     <tr>
-        <td>Votre client vous demande de pouvoir résilier certains<br> liens pendant la durée d'engagement sans indemnité<br> de résiliation anticipée</td>
+        <td>Votre client vous demande de pouvoir résilier certains liens <br>pendant la durée d'engagement sans indemnité de résiliation <br>anticipée</td>
         <td></td>
     </tr>
 </table>
