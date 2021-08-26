@@ -219,3 +219,20 @@ Cas Client
     * Nécessité de mettre en oeuvre des moyens spéciaux/Démolition ou construction d'ouvrage
 
 * Linkt se réserve le droit d'annuler la commande pour le site concerné et de proposer un autre type d'accès adapté aux tarifs de la nouvelle solution
+
+<hr style="margin: 50px 0">
+
+# Facturation lien d'accès
+
+* Internet 
+    * La date de facturation d'un lien est celle de la mise à disposition du service de ce lien
+
+# Facturation services
+
+1. Centrex
+    * quand le client est raccordé au réseaux
+2. Mobile
+    * aprés activation de la ligne
+3. RTC
+    * débute après réception 
+
