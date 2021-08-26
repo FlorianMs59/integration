@@ -173,6 +173,10 @@ Cas Client
     </tr>
     <tr>
         <td>Votre client vous demande de pouvoir résilier certains liens <br>pendant la durée d'engagement sans indemnité de résiliation <br>anticipée</td>
-        <td></td>
+        <td>OSM</td>
     </tr>
 </table>
+
+<hr style="margin: 50px 0">
+
+# 
