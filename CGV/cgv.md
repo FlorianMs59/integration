@@ -36,11 +36,11 @@ Cas client:
 
 # Modalités d'accès aux services
 
-```
-Le client doit fournir les informations de la collecte technique. Ces information doivent être exaces et complètes. A défaut la mise en service ne pourra pas avoir lieu.
 
-En cas d'erreur ou d'omission ayant conduit Linkt à installer le Service sur un site non approprié, LINKT pourra exiger le versement de pénalités égale à la somme des abonnements due sur la Durée Minimale du Service.
-```
+> Le client doit fournir les informations de la collecte technique. Ces information doivent être exaces et complètes. A défaut la mise en service ne pourra pas avoir lieu.
+
+> En cas d'erreur ou d'omission ayant conduit Linkt à installer le Service sur un site non approprié, LINKT pourra exiger le versement de pénalités égale à la somme des abonnements due sur la Durée Minimale du Service.
+
 
 * information fournies par le client:
     * Raison sociale du site
