@@ -127,3 +127,24 @@ Cas Client
 
 <hr style="margin: 50px 0">
 
+# Modification
+
+1. modification du service
+    * Par voie d'avenant aux conditions particulières et au bon de commande
+2. Modification du débit
+    * préavis d'un mois + etude de faisabilité
+    * FAS
+    * Délais à convenir conjointement
+    * si modification à la baisse montant forfaitaire à payer
+3. Ajout d'un site
+    * accord de Linkt
+    * etude de faisabilité 
+    * durée minimale fiée sur le BC
+
+4. Déménagement d'un site
+    * Demande par LRAR
+    * Etude de faisabilité
+    * Si valise: FAS
+    * Si non valide: Reste redevable des mensualités restantes
+
+
